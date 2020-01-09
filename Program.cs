@@ -9,8 +9,8 @@ namespace gitTest
 	    string name;
 	    string cm;
             Console.WriteLine("Olá mundo!");
-	    Console.ReadLine() = name;
-	    Console.ReadLine() = cm;
+	    name = Console.ReadLine();
+	    cm = Console.ReadLine();
 	    Console.WriteLine("Queria que o " + name + " comesse meu cuzinho todos os dias");
 	    Console.WriteLine("Sua piroca de " + cm + "cm me deixa louco para mamar e sentar nele");
 	    Console.ReadLine();
