@@ -6,7 +6,11 @@ namespace gitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+	    string name;
+	    string name2;
+            Console.WriteLine("Olá mundo!");
+	    Console.ReadLine = name;
+	    Console.WriteLine("Queria que o " + name + " comesse meu cuzinho");
         }
     }
 }
